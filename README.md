@@ -6,7 +6,7 @@
 
 I build practical AI assistants, APIs and automation with Microsoft Azure, Python and FastAPI. My focus is turning a business problem into a maintainable product, with clear architecture, useful documentation and security considered throughout.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/rahulchamoli/) · [Explore my GitHub](https://github.com/kaizenrc)
+[Visit my portfolio](https://kaizenrc.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/rahulchamoli/) · [Explore my GitHub](https://github.com/kaizenrc)
 
 ## What I work on
 
